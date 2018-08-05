@@ -1,0 +1,35 @@
+.div1{
+padding-top:60px;
+padding-bottom:60px;
+background-color:blue;
+}
+.div2{
+padding-top:60px;
+padding-bottom:60px;
+}
+.div3{
+padding-top:60px;
+padding-bottom:60px;
+background-color:grey;
+color:white;
+list-style-position:inside;
+}
+.div4{
+padding-top:60px;
+padding-bottom:60px;
+}
+.div5{
+padding-top:60px;
+padding-bottom:60px;
+background-image:url("kiwi.JPEG");
+}
+body{
+	font-family: 'Hanalei Fill', cursive;
+	text-align:center;
+}
+img{
+	border-radius:60%;
+	border:solid 5px green;
+	width:100px;
+	height:auto;
+}

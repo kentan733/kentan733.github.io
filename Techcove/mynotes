@@ -1,0 +1,8 @@
+Unordered List<ul>
+Ordered List<ol>
+The content have to be wrapped in <li>
+open in new tab, "target = "_blank""
+form: <input type="  ">   text, password, date, radio, checkbox, submit
+division html code: div
+link to css: link
+<div class="div1">
